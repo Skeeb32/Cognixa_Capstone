@@ -40,7 +40,7 @@ This project was styled with Vuetify with `vue add vuetify` - https://vuetifyjs.
 
 In the project directory, you can also try to run:
 
-### `yarn start`
+### `node app.js`
 
 Runs the app in the development mode.<br />
 BACKEND
@@ -48,6 +48,8 @@ BACKEND
 - Express.js
 - MongoDB
 Open [http://localhost:5001](http://localhost:5001) to view it in the browser.
+
+### `yarn start`
 
 FRONTEND
 - Vue.js
