@@ -2,7 +2,7 @@
 <p align="center">
   <img  alt="Marvel" height="128px" width="128px" src="https://cdn.wallpapersafari.com/95/53/54wYTx.jpg">
 </p>
-<h1 align="center"><a href="https://www.marvel.com/">Marvel</a></h1>
+<h1 align="center"><a href="https://www.marvel.com/ target_blank">Marvel</a></h1>
 
 <h3 align="center">A Marvel themed Notes Taking Application using MongoDB, Express, Vue, and Node</h3>
 
