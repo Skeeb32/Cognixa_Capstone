@@ -31,7 +31,8 @@ server - `npm i express mongoose@5.11.15 multer dotenv cors` `npm i -D nodemon`
 client `vue add vuetify`
 
 ## Media Database API link:
-http://www.omdbapi.com/
+APIKEY: http://www.omdbapi.com/
+
 This project was styled with Vuetify with `vue add vuetify` - https://vuetifyjs.com/en/
 
 ## Available Scripts
