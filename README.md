@@ -34,7 +34,7 @@ client `vue add vuetify`
 APIKEY: http://www.omdbapi.com/
 
 This project was styled with Vuetify with `vue add vuetify` - https://vuetifyjs.com/en/
-<img src="https://github.com/Skeeb32/Images/blob/master/media.png" alt="media" width="500" height="600">
+<img src="https://github.com/Skeeb32/Images/blob/master/media.png" alt="media" width="500" height="500">
 
 ## Available Scripts
 
@@ -57,3 +57,12 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+
+
+## FINISHED OUTPUT
+WEB
+<img src="https://github.com/Skeeb32/Images/blob/master/web.png" alt="media" width="500" height="500">
+
+MOBILE
+<img src="https://github.com/Skeeb32/Images/blob/master/mobile.png" alt="media" width="500" height="500">
