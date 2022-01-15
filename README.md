@@ -1,6 +1,6 @@
 <h1 align="center">Cognixia Capstone Project</h1>
 <p align="center">
-  <img  alt="Marvel" height="128px" width="128px" src="https://cdn.wallpapersafari.com/95/53/54wYTx.jpg">
+  <img  alt="Marvel" height="200px" width="350px" src="https://wallpaperaccess.com/full/342019.jpg">
 </p>
 <h1 align="center"><a href="https://www.marvel.com/" target="_blank">Marvel</a></h1>
 
