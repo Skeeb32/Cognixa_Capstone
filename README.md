@@ -11,16 +11,16 @@
 - Understanding Routers by routing between links.
 - Fetching data from API and populating the UI as per route link.
 
-## Local setup client:
-- Make sure you have Node installed check using command `node -v`.
-- Run `npm install` to install all dependencies.
-- Run `npm run dev` to start the development server.
-- Or run `npm run serve` to start the development server.
-- In your favorite browser open http://localhost:5001/api/post
 ## Local setup server:
 - Make sure you have Node installed check using command `node -v`.
 - Run `npm install` to install all dependencies.
 - Run `node app.js` to start the development server.
+- In your favorite browser open http://localhost:5001/api/post
+## Local setup client:
+- Make sure you have Node installed check using command `node -v`.
+- Run `npm install` to install all dependencies.
+- Run `npm run serve` to start the development server.
+- Or run `yarn start` to start the development server.
 - In your favorite browser open http://localhost:8080/
 
 ## NPM Node Modules:
