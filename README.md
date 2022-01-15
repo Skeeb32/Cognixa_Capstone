@@ -44,15 +44,15 @@ In the project directory, you can also try to run:
 
 Runs the app in the development mode.<br />
 BACKEND
-Node.js
-Express.js
-MongoDB
+- Node.js
+- Express.js
+- MongoDB
 Open [http://localhost:5001](http://localhost:5001) to view it in the browser.
 
 FRONTEND
-Vue.js
-Vue Router
-Axios
+- - Vue.js
+- Vue Router
+- Axios
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 The page will reload if you make edits.<br />
