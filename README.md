@@ -11,7 +11,7 @@
 - Understanding Routers by routing between links.
 - Fetching data from API and populating the UI as per route link.
 
-## Local setup marvel:
+## Local setup client:
 - Make sure you have Node installed check using command `node -v`.
 - Run `npm install` to install all dependencies.
 - Run `npm run dev` to start the development server.
