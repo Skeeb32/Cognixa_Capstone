@@ -34,6 +34,7 @@ client `vue add vuetify`
 APIKEY: http://www.omdbapi.com/
 
 This project was styled with Vuetify with `vue add vuetify` - https://vuetifyjs.com/en/
+<img src=“https://github.com/Skeeb32/Images/blob/master/media.png" width="250px">
 
 ## Available Scripts
 
