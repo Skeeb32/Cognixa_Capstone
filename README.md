@@ -50,7 +50,7 @@ BACKEND
 Open [http://localhost:5001](http://localhost:5001) to view it in the browser.
 
 FRONTEND
-- - Vue.js
+- Vue.js
 - Vue Router
 - Axios
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
