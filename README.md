@@ -24,8 +24,10 @@
 - In your favorite browser open http://localhost:8080/
 
 ## NPM Node Modules:
-global - npm i -D @vue/cli
+global - `npm i -D @vue/cli`
+
 server - `npm i express mongoose@5.11.15 multer dotenv cors` `npm i -D nodemon`
+
 client `vue add vuetify`
 
 ## Media Database API link:
